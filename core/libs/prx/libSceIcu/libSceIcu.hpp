@@ -5,6 +5,7 @@
 #include "Version.hpp"
 #include "ConverterCallbacks.hpp"
 #include "CString.hpp"
+#include "Category.hpp"
 #include "Space.hpp"
 #include "Unescape.hpp"
 #include "Identified.hpp"
